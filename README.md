@@ -24,7 +24,7 @@
 
 ![Github Statystic](https://github-readme-streak-stats.herokuapp.com?user=ayooh-us&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF)
 
-![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayooh-us&theme=calmpink)
+![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayooh-us&theme=calm-pink)
 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
